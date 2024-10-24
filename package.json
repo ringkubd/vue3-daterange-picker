@@ -1,0 +1,33 @@
+{
+  "name": "vue3-daterange-picker",
+  "dependencies": {
+    "dayjs": "^1.11.13"
+  },
+  "version": "1.0.0",
+  "description": "Vue date range picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anwar Jahid <ajr.jahid@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ringkubd/vue3-daterange-picker.git"
+  },
+  "keywords": [
+    "Vue3",
+    "daterange",
+    "picker",
+    "date",
+    "picker",
+    "select",
+    "date",
+    "range"
+  ],
+  "bugs": {
+    "url": "https://github.com/ringkubd/vue3-daterange-picker/issues"
+  },
+  "homepage": "https://github.com/ringkubd/vue3-daterange-picker#readme",
+  "devDependencies": {}
+}
